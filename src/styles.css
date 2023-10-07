@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  padding: 2em;
+}
+h3 {
+  text-decoration: underline 4px #eddea4;
+}
+body {
+  padding: 0 .4em;
+}
+button {
+  width: 30%;
+  padding: .6em;
+  background: #eddea4;
+  font-weight: bold
+}
+.classic{
+  margin-left : 7em;
+}
